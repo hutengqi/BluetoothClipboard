@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BluetoothClipboard (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BluetoothClipboard (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
