@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothClipboard", "BluetoothClipboard.csproj", "{BF9BB683-8064-4034-9059-77287ECE4E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "..\Task\Task.csproj", "{47F1DE48-6805-4F68-983C-A197E964D0EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,18 @@ Global
 		{BF9BB683-8064-4034-9059-77287ECE4E7F}.Release|x86.ActiveCfg = Release|x86
 		{BF9BB683-8064-4034-9059-77287ECE4E7F}.Release|x86.Build.0 = Release|x86
 		{BF9BB683-8064-4034-9059-77287ECE4E7F}.Release|x86.Deploy.0 = Release|x86
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Debug|x64.Build.0 = Debug|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Debug|x86.Build.0 = Debug|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Release|ARM64.Build.0 = Release|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Release|x64.Build.0 = Release|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Release|x86.ActiveCfg = Release|Any CPU
+		{47F1DE48-6805-4F68-983C-A197E964D0EF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

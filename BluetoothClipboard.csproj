@@ -38,6 +38,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.1742" />
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.6.241106002" />
+    <PackageReference Include="Scighost.WinUILib" Version="0.1.2" />
+    <PackageReference Include="Vanara.PInvoke.User32" Version="4.0.4" />
   </ItemGroup>
 
   <!--
